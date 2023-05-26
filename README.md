@@ -1,6 +1,6 @@
 # school_app
 
-A new Flutter project.
+This Education App named "EDU" is a comprehensive and user-friendly mobile application designed to revolutionize the way we learn and acquire knowledge. It offers a wide range of features and tools that enhance the learning experience for students of all ages and educational backgrounds.
 
 ## Getting Started
 
